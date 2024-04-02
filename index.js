@@ -37,4 +37,5 @@ function countFroyoOrder() {
 //     } return orderCount;
 // }
 
-console.log(countFroyoOrder());
+// console.table instead of console.log to create a table in the console.
+console.table(countFroyoOrder());
